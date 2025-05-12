@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kamil-Kijak from POLAND
+- 👀 I’m interested in programming, productivity
+- 🌱 I’m currently learning react
+- 😀 Have a nice day!
