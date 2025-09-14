@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Kamil-Kijak from POLAND
-- 👀 I’m interested in programming, productivity
-- 🌱 I’m currently learning react
-- 😀 Have a nice day!
+# Hello my name is Kamil Kijak
+I am a software developer from Poland  
+I am working with web development (react.js, node.js, mysql) and other technologies for exaple  C#, python  
+I create many different projects using this technologies  
+### Check it out on my portfolio website   
+### and have fun!
