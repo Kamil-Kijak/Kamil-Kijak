@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Kamil Kijak
 ### I am Software Developer from Poland
 I learning and building cool IT things (web projects, game projects, applications, etc.)  
-I love planning and giving my ideas life ❤️
+I love planning and bringing my ideas life ❤️
 ### 🧑‍💻 Technologies which I used:
 - **Basis:** HTML, CSS, Java Script
 - **Languages:** Java Script, C#, Python
