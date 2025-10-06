@@ -17,7 +17,7 @@ I love planning and bringing my ideas life ❤️
 - 🥇 I always impove yourself with creating **better** programming solutions
 ### 🌍 Connection:
 - **📸 Instagram:** [kamilkijak](https://www.instagram.com/kamilkijak/)
-- **💼 Linkedin:** [Kamil Kijak](www.linkedin.com/in/kamil-kijak-546676358)
+- **💼 Linkedin:** [Kamil Kijak](https://www.linkedin.com/in/kamil-kijak-546676358)
 - **🎥 Youtube:** [External-Gear](https://www.youtube.com/@External-Gear)
 - **📧 Email:** [kamil.kijak@pixlesofte.com](mailto:kamil.kijak@pixlesofte.com)
 - **🌐 Portfolio:** [website](https://aboutme.pixlesofte.com/)
