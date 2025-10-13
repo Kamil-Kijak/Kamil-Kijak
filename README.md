@@ -4,12 +4,12 @@ I learning and building cool IT things (web projects, game projects, application
 I love planning and bringing my ideas to life ❤️
 ### 🧑‍💻 Technologies which I used:
 - **Basis:** HTML, CSS, Java Script
-- **Languages:** Java Script, C#, Python
+- **Languages:** Java Script, C#, Python, C++(future), Dart(future)
 - **Frontend:** React.js
-- **Backend:** Node.js, Express.js, Flask
+- **Backend:** Node.js, Express.js, Django(learning)
 - **Frameworks:** Tailwind
-- **Databases:** Mysql
-- **Editors and tools:** VS code, PyCharm, MySql Workbench
+- **Databases:** Mysql, MongoDB(future)
+- **Editors and tools:** VS code, PyCharm, MySQL Workbench
 ### 📌 About me:
 - 🏠 I live in Poland near **Kraków(Cracov)**
 - 🧑‍🎓 I am student and I am learning about **computer science, IT, programming, software developing**
