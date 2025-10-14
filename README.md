@@ -6,7 +6,7 @@ I love planning and bringing my ideas to life ❤️
 - **Basis:** HTML, CSS, Java Script
 - **Languages:** Java Script, C#, Python, C++(future), Dart(future)
 - **Frontend:** React.js
-- **Backend:** Node.js, Express.js, Django(learning)
+- **Backend:** Node.js, Express.js, Flask(learning)
 - **Frameworks:** Tailwind
 - **Databases:** Mysql, MongoDB(future)
 - **Editors and tools:** VS code, PyCharm, MySQL Workbench
