@@ -1,20 +1,20 @@
 # 👋 Hi, my name is Kamil Kijak
 ### I am Software Developer from Poland
-I learning and building cool IT things (web projects, game projects, applications, etc.)  
+I learning and building cool IT things ```(web projects, game projects, applications, etc.)```  
 I love planning and bringing my ideas to life ❤️
 ### 🧑‍💻 Technologies which I used:
-- **Basis:** HTML, CSS, Java Script
-- **Languages:** Java Script, C#, Python, C++(future), Dart(future)
-- **Frontend:** React.js
-- **Backend:** Node.js, Express.js, Flask(learning)
-- **Frameworks:** Tailwind
-- **Databases:** Mysql, MongoDB(future)
-- **Editors and tools:** VS code, PyCharm, MySQL Workbench
+- **Basis:** ```HTML```, ```CSS```, ```Java Script```
+- **Languages:** ```Java Script```, ```C#```, ```Python```, ```C++(future)```, ```Dart(future)```
+- **Frontend:** ```React.js```, ```Flutter(future)```
+- **Backend:** ```Node.js```, ```Express.js```, ```Flask```
+- **Frameworks:** ```Tailwind```
+- **Databases:** ```Mysql```, ```MongoDB(future)```
+- **Editors and tools:** ```VS code```, ```PyCharm```, ```MySQL Workbench```
 ### 📌 About me:
-- 🏠 I live in Poland near **Kraków(Cracov)**
-- 🧑‍🎓 I am student and I am learning about **computer science, IT, programming, software developing**
-- 🤝 I am open to collaborating with **programming projects** include **creating solutions**, **ideas**, **frontend-backend**
-- 🥇 I always impove yourself with creating **better** programming solutions
+- 🏠 I live in Poland near ```Kraków```
+- 🧑‍🎓 I am student and I am learning about ```computer science, IT, programming, software developing```
+- 🤝 I am open to collaborating with ```programming projects``` include ```creating solutions```, ```ideas```, ```frontend-backend```
+- 🥇 I always impove yourself with creating ```better``` programming solutions
 ### 🌍 Connection:
 - **📸 Instagram:** [kamilkijak](https://www.instagram.com/kamilkijak/)
 - **💼 Linkedin:** [Kamil Kijak](https://www.linkedin.com/in/kamil-kijak-546676358)
