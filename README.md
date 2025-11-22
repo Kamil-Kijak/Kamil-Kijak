@@ -16,6 +16,7 @@ I love planning and bringing my ideas to life ❤️
 - 🤝 I am open to collaborating with ```programming projects``` include ```creating solutions```, ```ideas```, ```frontend-backend```
 - 🥇 I always impove yourself with creating ```better``` programming solutions
 ### 🌍 Connection:
+- **⚙️ Leetcode:** [ExternalGear](https://leetcode.com/u/ExternalGear/)
 - **💼 Linkedin:** [Kamil Kijak](https://www.linkedin.com/in/kamil-kijak-546676358)
 - **🎥 Youtube:** [External-Gear](https://www.youtube.com/@External-Gear)
 - **📧 Email:** [kamil.kijak@pixlesofte.com](mailto:kamil.kijak@pixlesofte.com)
