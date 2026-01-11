@@ -18,7 +18,6 @@ I love planning and bringing my ideas to life ❤️
 ### 🌍 Connection:
 - **⚙️ Leetcode:** [ExternalGear](https://leetcode.com/u/ExternalGear/)
 - **💼 Linkedin:** [Kamil Kijak](https://www.linkedin.com/in/kamil-kijak-546676358)
-- **🎥 Youtube:** [External-Gear](https://www.youtube.com/@External-Gear)
 - **📧 Email:** [kamil.kijak@pixlesofte.com](mailto:kamil.kijak@pixlesofte.com)
 - **🌐 Portfolio:** [website](https://aboutme.pixlesofte.com/)
 
