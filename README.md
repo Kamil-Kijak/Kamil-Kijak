@@ -10,6 +10,11 @@ I love planning and bringing my ideas to life ❤️
 - **Frameworks:** ```Tailwind```
 - **Databases:** ```Mysql```, ```MongoDB(future)```
 - **Editors and tools:** ```VS code```, ```PyCharm```, ```MySQL Workbench```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Kijak&layout=compact&theme=radical)  
+  
+![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamil-Kijak&show_icons=true&theme=radical)
+
 ### 📌 About me:
 - 🏠 I live in Poland near ```Kraków```
 - 🧑‍🎓 I am student and I am learning about ```computer science, IT, programming, software developing```
