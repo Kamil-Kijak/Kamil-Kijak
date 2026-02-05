@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Kamil Kijak
 ### I am Software Developer from Poland
-I learning and building cool IT things ```(web projects, game projects, applications, etc.)```  
+I like to learn and build cool IT projects ```(web designs, games, applications, etc.)```  
 I love planning and bringing my ideas to life ❤️
 ### 🧑‍💻 Technologies which I used:
 - **Basis:** ```HTML```, ```CSS```, ```Java Script```
@@ -17,9 +17,9 @@ I love planning and bringing my ideas to life ❤️
 
 ### 📌 About me:
 - 🏠 I live in Poland near ```Kraków```
-- 🧑‍🎓 I am student and I am learning about ```computer science, IT, programming, software developing```
-- 🤝 I am open to collaborating with ```programming projects``` include ```creating solutions```, ```ideas```, ```frontend-backend```
-- 🥇 I always impove yourself with creating ```better``` programming solutions
+- 🧑‍🎓 I am student at TK No. 25 (high school) in Krakow, wherethe curriculum includes computer science, IT, programming, software developing
+- 🤝 I am open to collaboration on programming projects that may involve creating solutions, exchanging ideas, including frontend as well as backend aspects of the design
+- 🥇 I always strive to improve myself and aim to create a better solution at every attempt
 ### 🌍 Connection:
 - **⚙️ Leetcode:** [ExternalGear](https://leetcode.com/u/ExternalGear/)
 - **💼 Linkedin:** [Kamil Kijak](https://www.linkedin.com/in/kamil-kijak-546676358)
