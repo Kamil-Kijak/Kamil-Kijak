@@ -26,5 +26,7 @@ I love planning and bringing my ideas to life ❤️
 - **📧 Email:** [kamil.kijak@pixlesofte.com](mailto:kamil.kijak@pixlesofte.com)
 - **🌐 Portfolio:** [website](https://aboutme.pixlesofte.com/)
 
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=kkamildev&theme=monokai)
+
 ## *"Plannning, creating, working and feeling fun and progress"*  
 
