@@ -30,4 +30,5 @@ I love planning and bringing my ideas to life ❤️
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=kkamildev&theme=monokai)
 
 ## *"Plannning, creating, working and feeling fun and progress"*  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D4Z323H2Z3)
 
